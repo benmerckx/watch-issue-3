@@ -6,6 +6,6 @@
 /*.code-workspace
 /*.iml
 /**/.DS_Store
-/index.php
+/index.*
 /etc/**/development.json
 /src/**/*.g.json

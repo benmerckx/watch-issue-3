@@ -2,8 +2,9 @@
 --dce no
 --define analyzer-optimize
 --define no-deprecation-warnings
---define real-position
+#--define real-position
+--library hxnodejs
 --library tink_core
 --library tink_web
 --main project.Main
---php .
+--js index.js
