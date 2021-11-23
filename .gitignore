@@ -1,0 +1,11 @@
+/lib/
+/res/
+/var/
+/vendor/
+
+/*.code-workspace
+/*.iml
+/**/.DS_Store
+/index.php
+/etc/**/development.json
+/src/**/*.g.json
